@@ -11,7 +11,7 @@ singleton="false" />
   <Require feature="opensocial-0.8" />
 <Content type="html">
 <![CDATA[
-<style>body {background: url("http://lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s280/pergaminho.png") center top no-repeat;}
+<style>body {background: url("//lh5.googleusercontent.com/-YhrD_Z1itT4/UlnRpb8WgmI/AAAAAAAAJX8/Ha8LafsbzcY/s280/pergaminho.png") center top no-repeat;}
 #mainContainer{padding: 9px;margin:40px 15px 0px 15px; width:200px;}</style>
 <table>
 <tr>
